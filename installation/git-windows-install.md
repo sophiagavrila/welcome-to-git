@@ -1,5 +1,5 @@
 ## Install Git for Windows
-This is an install guide specific to Windows OS.  If you have associates on a Mac, have them follow THE [Mac Installation Guide](https://gitlab.com/revature_training/git-team/-/blob/master/modules/installation/git-mac-install.md).
+This is an install guide specific to Windows OS.  If you have associates on a Mac, have them follow the [Mac Installation Guide](https://github.com/sophiagavrila/welcome-to-git/blob/main/installation/git-mac-install.md).
 
 1. Navigate in your browser to [Git's Website](https://git-scm.com/download) and click the latest download for Windows. (For those using a different OS click the appropriate OS and look for the most recent stable release.)
 
