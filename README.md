@@ -19,7 +19,7 @@ GitHub is a **Git repository hosting service**, but it adds many of its own feat
 
 ## Installing and Configuring Git
 
-Navigate to to this file for instructions on [installing Git](https://gitlab.com/revature_training/git-team/-/blob/master/modules/installation/git-windows-install.md)
+Navigate to to this file for instructions on [installing Git (for Windows)](https://github.com/sophiagavrila/welcome-to-git/blob/main/installation/git-windows-install.md) and [here for Mac](https://github.com/sophiagavrila/welcome-to-git/blob/main/installation/git-mac-install.md).
 
 Once you have successfully installed Git, you will need to configure it. The configuration values help us keep track of who is making what change within a project. 
 
