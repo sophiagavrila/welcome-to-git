@@ -4,9 +4,7 @@
 
 We will start by learning the Git Command-line tools.
 
-Git is a **distributed version control system**. This means that the entire codebase and history of a project is available on every developer’s computer as a **local repository** , which allows for easy branching and merging. 
-
-This repository contains all of the information that the **remote repository** has, based on the last time that you synced those two together.
+Git is a **distributed version control system**. This means that the entire codebase and history of a project is available on every developer’s computer as a **local repository** , which allows for easy branching and merging. This local repository contains all of the information that the **remote repository** has, based on the last time that you synced those two together.
 
 Even if you don't have access to the **remote repository**, you can still view all of the changes that have been made, and contributers can maintain a copy of this record on their own machines.
 
