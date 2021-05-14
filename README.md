@@ -8,7 +8,7 @@ Git is a **distributed version control system**. This means that the entire code
 
 Even if you don't have access to the **remote repository**, you can still view all of the changes that have been made, and contributers can maintain a copy of this record on their own machines.
 
-<img src="./images/vcs.png" width="300"/>
+<img src="./images/vcs.png" width="500"/>
 
 ## What is GitHub?
 
