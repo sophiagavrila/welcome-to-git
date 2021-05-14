@@ -1,4 +1,7 @@
 ## What is Git?
+
+> If reading really isn't your thing, here is a [very helpful and *very* corny video](https://app.pluralsight.com/course-player?clipId=8dc1a5de-01c5-452e-a45f-d2f77a980e1c) about Git.
+
 We will start by learning the Git Command-line tools.
 
 Git is a **distributed version control system**. This means that the entire codebase and history of a project is available on every developer’s computer as a **local repository** , which allows for easy branching and merging. 
