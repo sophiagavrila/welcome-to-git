@@ -133,7 +133,7 @@ So far we have initialized a local repository to track changes made to our sourc
 5. Git Bash within your `MyApp` folder and paste the copied commands:
 
 ```
-$ git remote add origin https://github.com/sophiagavrila/my-app.git
+$ git remote add origin https://github.com/your-github-username/my-app.git
 $ git push -u origin master
 ```
 
@@ -143,11 +143,10 @@ $ git push -u origin master
 ```
 $ git add .
 $ git commit -m "a message about changes"
-$ git pull
 $ git push
 ```
 
-The `git pull` command is used to fetch and download content from a remote repository and immediately update the local repository to match that content, **before** you push your changes.
+The `git pull` command is used to fetch and download content from a remote repository and immediately update the local repository to match that content, **before** you commit, push your changes.  **Typically you would run `git pull` before the 3 commands above**.
 
 ### References
 
